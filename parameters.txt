@@ -1,0 +1,3 @@
+lang=spa
+oem=1
+psm=2
